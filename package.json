@@ -1,0 +1,27 @@
+{
+  "name": "headful",
+  "version": "0.0.0",
+  "description": "Headless browser as local network API to use offline PWAs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kr1sp1n/headful.git"
+  },
+  "keywords": [
+    "headful",
+    "API"
+  ],
+  "author": "kr1sp1n",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kr1sp1n/headful/issues"
+  },
+  "homepage": "https://github.com/kr1sp1n/headful#readme",
+  "dependencies": {
+    "puppeteer": "^1.20.0"
+  }
+}
